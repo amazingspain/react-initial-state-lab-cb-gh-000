@@ -7,11 +7,13 @@ export default class ImageSlider extends React.Component {
       currentSlideIndex: 0
     }
   }
-  
+
 }
+export default ImageSlider;
 render(){
   return (
     <h1> I am on slide {this.sate.currentSlideIndex}</h1>
   )
 }
 }
+export default ImageSlider;
