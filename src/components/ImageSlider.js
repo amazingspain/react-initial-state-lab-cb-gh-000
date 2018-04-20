@@ -16,4 +16,3 @@ render(){
   )
 }
 }
-export default ImageSlider;
